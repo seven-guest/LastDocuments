@@ -1,0 +1,2 @@
+ver. 1.1.43
+1. Скорректированы функции FillProgList() и FillProgListByUserChoice() в части обработки на null значений полей реестра
